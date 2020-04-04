@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="get">Get</string>
+    <string name="put">Put</string>
+    <string name="delete">Delete</string>
+    <string name="EscribirTexto">Escribir texto a guardar:</string>
+    <string name="IngresaTexto">Ingresar texto</string>
+    <string name="TextoGuardar">Texto</string>
+</resources>
